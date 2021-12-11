@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testing base elements</string>
+    <string name="b1">In_1</string>
+    <string name="b2">Out</string>
+</resources>
